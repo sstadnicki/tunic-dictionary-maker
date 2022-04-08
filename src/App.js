@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import GlyphEditor from './GlyphEditor';
 import GlyphEntry from './GlyphEntry';
