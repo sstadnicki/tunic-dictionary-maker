@@ -1,0 +1,18 @@
+.glyphEditor {
+  display: table;
+}
+
+.glyphEditor div {
+  display: table-cell;
+  vertical-align: middle;
+  padding:0.5em;
+}
+
+.glyphEditor input {
+  font-size: 2em;
+  width: 10em;
+}
+
+.glyphEditor button {
+  font-size: 1.5em;
+}
